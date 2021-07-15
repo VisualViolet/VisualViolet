@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @savannah-dev
-- 👀 I’m interested in programming, cybersecurity, video game development, and AI programming.
-- 🌱 I’m currently learning Database Development and Design at Pierce College. After that, I plat to transfer to a cohort for a BA in Cybersecurity. 
+- 👋 Hi, I’m @VisualViolet
+- 👀 I’m interested in programming, cybersecurity, video game development, and web design.
+- 🌱 I’m currently learning Database Development and Design at Pierce College. After that, I plan to transfer to a cohort for a BA in Cybersecurity. 
 - 💞️ I’m looking to collaborate on any project I can contribute to! My number one goal is to learn new skills! 
 
 ---
