@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VisualViolet!
 - 👀 I’m interested in programming, cybersecurity, video game development, and web design.
-- 🌱 I’m currently learning Database Development and Design at Pierce College. After that, I plan to transfer to a cohort for a BA in Cybersecurity. 
+- 🌱 I’m currently enrolled in Coding Bootcamp through the University of Washington. After I receive my certificate, I plan to use my new skillset to join the software development workforce.
 - 💞️ I’m looking to collaborate on any project I can contribute to! My number one goal is to learn new skills! 
 
 ---
