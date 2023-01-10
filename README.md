@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VisualViolet, but you can call me Savannah!
 - 👀 I’m interested in programming, cybersecurity, video game development, and web design.
-- 🌱 I’m currently enrolled in Coding Bootcamp through the University of Washington. After I receive my certificate, I plan to use my new skillset to join the software development workforce.
+- 🌱 I’m currently enrolled in Coding Bootcamp through the University of Washington. After I receive my certificate, I plan to use my new skillset to join the software        development workforce.
 - 💞️ I’m looking to collaborate on any project I can contribute to! My number one goal is to learn new skills! 
-- Profile picture was generated with the Midjourney bot. Find out more information here: https://midjourney.gitbook.io/docs/.
+- :blush: Profile picture was generated with the Midjourney bot. Find out more information here: https://midjourney.gitbook.io/docs/.
 
 ---
 <p align="center">
