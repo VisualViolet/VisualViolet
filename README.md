@@ -23,7 +23,7 @@ savannah_b_miller@outlook.com | www.linkedin.com/in/savannah-b-miller/ | https:/
 
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=VisualViolet&show_icons=true&theme=material-palenight" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualViolet" />
 </div>
