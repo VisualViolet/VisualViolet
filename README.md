@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-savannah_b_miller@outlook.com | www.linkedin.com/in/savannah-b-miller/ | Want a copy of my resume? Send me an email! 
+savannah_b_miller@outlook.com | www.linkedin.com/in/savannah-b-miller/ | visualviolet.github.io/professional-portfolio/ 
 </p>
 
 <!---
