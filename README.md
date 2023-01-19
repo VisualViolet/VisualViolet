@@ -22,11 +22,9 @@ savannah_b_miller@outlook.com | www.linkedin.com/in/savannah-b-miller/ | https:/
 </p>
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualViolet&show_icons=true&theme=material-palenight)](https://github.com/VisualViolet/github-readme-stats)
 
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=VisualViolet&show_icons=true&theme=material-palenight" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualViolet" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisualViolet)](https://github.com/VisualViolet/github-readme-stats)
 
 <!---
 savannah-dev/savannah-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
