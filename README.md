@@ -43,6 +43,7 @@ savannah_b_miller@outlook.com | https://visualviolet.github.io/professional-port
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 [![Savannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualViolet&show_icons=true&theme=material-palenight)](https://github.com/VisualViolet/github-readme-stats)
 
