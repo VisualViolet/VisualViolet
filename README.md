@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-I'm a junior developer who is interested in web development and software development, game development, web design, and cybersecurity. I'm gaining valuable experience from my enrollment in the University of Washington Coding Bootcamp! After I receive my certificate, I plan to use my new skillset to join the software development workforce as a full-stack developer.
+I'm a certified full-stack (specializing in MERN) junior developer who is interested in web development and software development, game development, web design, and cybersecurity. I gained valuable experience throughout my time in the University of Washington Coding Bootcamp. As of 03/16/23, I have graduated and am officially certified!
 Have a new project and want some help? Let me know! I'm looking to collaborate on any project I can contribute to. My number one goal is to learn new skills!
 Profile picture was generated with the Midjourney bot. Find out more information here: https://midjourney.gitbook.io/docs/.
 </p>
@@ -44,6 +44,7 @@ savannah_b_miller@outlook.com | https://visualviolet.github.io/professional-port
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
