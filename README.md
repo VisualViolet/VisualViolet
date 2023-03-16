@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-I'm a certified full-stack (specializing in MERN) junior developer who is interested in web development and software development, game development, web design, and cybersecurity. I gained valuable experience throughout my time in the University of Washington Coding Bootcamp. As of 03/16/23, I have graduated and am officially certified!
+I'm a certified full-stack (specializing in MERN) mid-level developer who is interested in web development and software development, game development, web design, and cybersecurity. I gained valuable experience throughout my time in the University of Washington Coding Bootcamp. As of 03/16/23, I have graduated and am officially certified!
 Have a new project and want some help? Let me know! I'm looking to collaborate on any project I can contribute to. My number one goal is to learn new skills!
 Profile picture was generated with the Midjourney bot. Find out more information here: https://midjourney.gitbook.io/docs/.
 </p>
