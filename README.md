@@ -2,7 +2,7 @@
 
 ---  
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
- <img class="img" src="./assets/images/sav-github-banner.png" />
+ <img class="img" src="./assets/images/Cozy Code Banner.png" />
 </div>
 
 <p align="center">
